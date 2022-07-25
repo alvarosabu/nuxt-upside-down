@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Benguiat';
+  font-weight: 400;
+  src: local('BenguiatStd-Book'), url(/fonts/benguiat/BenguiatStd-Book.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Benguiat';
+  font-weight: 500;
+  src: local('BenguiatStd-Medium'), url(/fonts/benguiat/BenguiatStd-Medium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Benguiat';
+  font-weight: 600;
+  src: local('BenguiatStd-Bold'), url(/fonts/benguiat/BenguiatStd-Bold.otf) format('opentype');
+}

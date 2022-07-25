@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@alvarosabu/prettier-config": "^1.2.0",
+    "@unocss/nuxt": "^0.44.7",
+    "nuxt": "3.0.0-rc.6",
+    "unocss": "^0.44.7"
+  }
+}
